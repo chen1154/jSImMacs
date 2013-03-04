@@ -8,7 +8,7 @@ package javaapplication7;
  *
  * @author Kevin
  */
-public class JavaApplication7 {
+public class JavaApplication7 { 
 
     /**
      * @param args the command line arguments
